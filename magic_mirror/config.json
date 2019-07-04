@@ -3,7 +3,7 @@
   "version": "0.23.3",
   "slug": "magic_mirror",
   "description": "MagicMirror² is an open source modular smart mirror platform. This run the server in you HASS.IO environment.",
-  "url": "https://github.com/sytone/hassio-addons",
+  "url": "https://github.com/jvannoyx4/hassio-addons/tree/master/magic_mirror",
   "startup": "application",
   "boot": "auto",
   "homeassistant_api": true,
